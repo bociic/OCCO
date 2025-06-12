@@ -1,0 +1,11 @@
+h5py==3.11.0
+h5py==3.9.0
+imageio==2.33.1
+matplotlib==3.5.0
+numpy==2.3.0
+opencv_python==4.9.0.80
+Pillow==11.2.1
+scipy==1.15.3
+torch==2.1.0+cu121
+torchstat==0.0.7
+torchvision==0.16.0+cu121
