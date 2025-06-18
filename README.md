@@ -1,6 +1,6 @@
 
 
-  <h1 align="left">OCCO</h1>
+  <h1 align="left">[IJCV25]-OCCO-Infrared and Visible Image Fusion</h1>
 
 Implementation of our work:
 
