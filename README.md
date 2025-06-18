@@ -7,7 +7,7 @@ Implementation of our work:
 Hui Li\*, Congcong Bian, Zeyang Zhang, Xiaoning Song, Xi Li, and Xiao-jun Wu<sup>📭</sup>, "**OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning**", International Journal of Computer Vision (**IJCV**), 2025.
 
 
-#### [Paper]    [[Arxiv](https://arxiv.org/pdf/2503.18635)]
+#### [[Paper](https://doi.org/10.1007/s11263-025-02507-2)]    [[Arxiv](https://arxiv.org/pdf/2503.18635)]
 
 ## Installation
 
@@ -79,14 +79,12 @@ Hui Li(`lihui.cv@jiangnan.edu.cn`) or Congcong Bian(`bociic_jnu_cv@163.com`).
 If you find this paper/code helpful, please consider citing us: 
 
 ```
-@misc{occo,
-      title={OCCO: LVM-guided Infrared and Visible Image Fusion Framework based on Object-aware and Contextual COntrastive Learning}, 
-      author={Hui Li and Congcong Bian and Zeyang Zhang and Xiaoning Song and Xi Li and Xiao-Jun Wu},
-      year={2025},
-      eprint={2503.18635},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.18635}, 
+@article{Li2025,
+  author = {Li, Hui and Bian, Congcong and Zhang, Zeyang and Song, Xiaoning and Li, Xi and Wu, Xiao-Jun},
+  title = {OCCO: LVM-Guided Infrared and Visible Image Fusion Framework Based on Object-Aware and Contextual Contrastive Learning},
+  journal = {International Journal of Computer Vision},
+  year = {2025},
+  issn = {1573-1405},
 }
 ```
 
